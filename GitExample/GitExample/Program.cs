@@ -11,6 +11,7 @@ namespace GitExample
         static void Main(string[] args)
         {
             //code added in vs
+            //code added in server
         }
     }
 }
