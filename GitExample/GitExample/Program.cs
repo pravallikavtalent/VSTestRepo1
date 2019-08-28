@@ -8,11 +8,14 @@ namespace GitExample
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             //code added in vs
             //code added in server
             //Code updated by pravallika
+
+            Console.WriteLine("hello");
         }
     }
 }
